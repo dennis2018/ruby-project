@@ -3,3 +3,10 @@ Rails is a web application framework running on the Ruby programming language. I
 
 Official Ruby Programming Language website
 List of Free Programming Books
+
+Before you install Rails, you should check to make sure that your system has the proper prerequisites installed. These include:
+
+Ruby
+SQLite3
+Node.js
+Yarn
