@@ -10,3 +10,11 @@ Before you install Rails, you should check to make sure that your system has the
 * SQLite3
 * Node.js
 * Yarn
+
+## First, update your package index:
+
+sudo apt update
+ 
+Next, install the sqlite3 and libsqlite3-dev packages:
+
+sudo apt install sqlite3 libsqlite3-dev
