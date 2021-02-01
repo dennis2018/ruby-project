@@ -1,20 +1,24 @@
-# Getting started with ruby 
-Rails is a web application framework running on the Ruby programming language. If you have no prior experience with Ruby, you will find a very steep learning curve diving straight into Rails. There are several curated lists of online resources for learning Ruby:
+# README
 
-Official Ruby Programming Language website
-List of Free Programming Books
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Before you install Rails, you should check to make sure that your system has the proper prerequisites installed. These include:
+Things you may want to cover:
 
-* Ruby
-* SQLite3
-* Node.js
-* Yarn
+* Ruby version
 
-## First, update your package index:
+* System dependencies
 
-sudo apt update
- 
-Next, install the sqlite3 and libsqlite3-dev packages:
+* Configuration
 
-sudo apt install sqlite3 libsqlite3-dev
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
